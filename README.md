@@ -27,5 +27,5 @@ My Name is Michael Davitt. I am a graduate of the UCD Bachelor of Science degree
 ---
 
 <p float="left">	
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavitt&layout=compact"/>	
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldavitt&layout=compact&langs_count=10"/>	
 </p>
