@@ -1,4 +1,4 @@
-My Name is Michael Davitt. I am a graduate of the UCD Bachelor of Science degree in Actuarial and Financial Studies, currently pursuing a Higher Diploma in Computer Science (Conversion), with the aim of acquiring a job in tech/finance. I have 1 year of experience working in the insurance industry, where I was involved in actuarial auditing. At the moment, I am working on improving my front-end web development skills through personal projects and collaboration with others. 
+My Name is Michael Davitt. I am a graduate of the UCD Bachelor of Science degree in Actuarial and Financial Studies, currently pursuing a Higher Diploma in Computer Science (Conversion), with the aim of acquiring a job in tech/finance. I have 1 year of experience working in the insurance industry, where I was involved in actuarial auditing. I am currently learning the fundamentals of computer science, and am supplimenting this learning through the creation of personal and collaborative projects. 
 
 ---
 
