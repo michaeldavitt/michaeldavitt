@@ -1,4 +1,4 @@
-My Name is Michael Davitt. I am a graduate of the UCD Bachelor of Science degree in Actuarial and Financial Studies, currently pursuing a Higher Diploma in Computer Science (Conversion), with the aim of acquiring a job in tech/finance. I have 1 year of experience working in the insurance industry, where I was involved in actuarial auditing. I am currently learning the fundamentals of computer science, and am supplimenting this learning through the creation of personal and collaborative projects. 
+My Name is Michael Davitt. I am a graduate of the UCD Bachelor of Science degree in Actuarial and Financial Studies and the UCD Higher Diploma in Computer Science (Conversion). I am currently working as a product support specialist at Stripe. I have 1 year of experience working in the insurance industry, where I was involved in actuarial auditing.
 
 ---
 
